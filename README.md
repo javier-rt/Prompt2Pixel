@@ -5,7 +5,7 @@ High-performance, serverless web application that transforms textual description
 ---
 
 ## Features
-High-Resolution Synthesis: Generates 1024x1024 images using the state-of-the-art SDXL model.
+* High-Resolution Synthesis: Generates 1024x1024 images using the state-of-the-art SDXL model.
 
 * Serverless Infrastructure: Uses Hugging Face Inference API; no local model downloads or high-end hardware needed.
 
