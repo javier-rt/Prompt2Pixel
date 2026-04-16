@@ -1,9 +1,6 @@
 # Prompt2Pixel
-### Optimized serverless inference engine leveraging Latent Diffusion to transform natural language into high-fidelity visual assets with zero local GPU overhead.
 
-It leverages the Stable Diffusion XL (SDXL) model to transform natural language descriptions into high-fidelity visual assets without requiring local GPU resources.
-
-**Prompt2Pixel** is a high-performance, serverless web application that transforms textual descriptions into high-fidelity images. By leveraging the **Stable Diffusion XL (SDXL)** model via Hugging Face's distributed Inference API, the project achieves high-end AI generation without requiring local GPU resources.
+High-performance, serverless web application that transforms textual descriptions into high-fidelity images. By leveraging the **Stable Diffusion XL (SDXL)** model via Hugging Face's distributed Inference API, the project achieves high-end AI generation without requiring local GPU resources.
 
 ---
 
